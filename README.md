@@ -1,4 +1,4 @@
-## README.md
+###  注意如果网卡用的不是DW1820A，那么需要修改config.plist，可以采用config.plist_without_dw1820a,把此文件重命名为config.plist
 
 # 9600K-ROG-B360I-UHD630 for macOS Catalina（10.15.7）
 
