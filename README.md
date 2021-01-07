@@ -49,7 +49,7 @@
 | 蓝牙      | DW1820a      | BrcmBluetoothInjector.kext BrcmFirmwareData.kext BrcmPatchRAM3.kext |
 | SMBus设备 |              | VirtualSMC.kext SMCProcessor.kext SMCSuperIO.kext            |
 
-DW1820A驱动参考黑果小兵博客
+DW1820A驱动参考黑果小兵博客,注意如果网卡用的不是DW1820A，那么需要修改config.plist，可以采用config.plist_without_dw1820a
 
 ## 工作情况
 
